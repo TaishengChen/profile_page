@@ -1,0 +1,21 @@
+/* 全局设置 */
+body {
+  background-color: #23252C; /* 深色背景 */
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* 卡片样式 */
+.card {
+  background-color: #1A1B21; /* 卡片背景色 */
+  border-radius: 10px;
+  padding: 20px;
+  width: 350px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+}

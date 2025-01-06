@@ -1,0 +1,19 @@
+.interests-item {
+    padding: 10px;
+    margin: 20px auto;
+    text-align: left;
+    width: 300px;
+}
+
+.interests-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+.interests-content {
+    font-size: 0.9rem;
+    color: #FFF;
+    line-height: 1.6;
+}

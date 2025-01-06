@@ -1,0 +1,49 @@
+.info-item {
+
+}
+
+.info-image-prodile {
+    width: 80%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.info-name-content {
+    font-size: 1.8rem;
+    margin: 10px 0 2px 0;
+}
+
+.info-job-title {
+    font-size: 1rem;
+    margin: 0;
+    color: #F3BF99;
+}
+
+.info-description {
+    font-size: 0.9rem;
+    margin: 5px 0 20px 0;
+    color: #F5F5F5;
+}
+
+.info-email-button {
+    background-color: #FFFFFF;
+    border: none;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    gap: 6px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.info-email-button svg {
+    vertical-align: middle;
+    font-size: 1.2rem;
+}
+
+  
+  

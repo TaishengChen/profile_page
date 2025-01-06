@@ -1,0 +1,16 @@
+.footer-item {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.footer-item a{
+    color: #fff;
+    font-size: 2rem;
+    transition: color 0.3s;
+}
+
+.footer-item a:hover {
+    color: pink;
+}
