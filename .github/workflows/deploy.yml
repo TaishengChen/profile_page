@@ -40,6 +40,7 @@ jobs:
           remote_host: ${{ secrets.SERVER_IP }}
           remote_user: ${{ secrets.SERVER_USER }}
           target: ${{ secrets.SERVER_PATH }}
+          source: ./dist/
 
       - name: Verify deployment
         run: curl -I https://404found.uk
