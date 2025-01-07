@@ -15,7 +15,7 @@ const Info = () => {
             ></img>
             <h2 className="info-name-content">Taisheng Chen</h2>
             <h4 className="info-job-title">Frontend Developer</h4>
-            <h5 className="info-description">Taisheng.website</h5>
+            <h5 className="info-description">Taisheng.profile</h5>
 
             <button onClick={handleClick} className="info-email-button">
                 <MdEmail className="info-email-icon"/> Email
